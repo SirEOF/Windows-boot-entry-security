@@ -3,6 +3,8 @@ boot/mbr/uefi
 
 MRR：https://en.wikipedia.org/wiki/Master_boot_record
 
+VBR：https://en.wikipedia.org/wiki/Volume_boot_record
+
 GPT：https://en.wikipedia.org/wiki/GUID_Partition_Table
 
 UEFI： https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-8.1-and-8/hh824987(v=win.10)
