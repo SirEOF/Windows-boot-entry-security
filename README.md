@@ -1,5 +1,6 @@
 # Windows-boot-entry-security
 boot/mbr/uefi
+MRR：https://en.wikipedia.org/wiki/Master_boot_record
 
 UEFI： https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-8.1-and-8/hh824987(v=win.10)
 
