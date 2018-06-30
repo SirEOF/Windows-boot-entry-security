@@ -11,6 +11,8 @@ VBR：https://en.wikipedia.org/wiki/Volume_boot_record
 
 GPT：https://en.wikipedia.org/wiki/GUID_Partition_Table
 
+BIOS security: http://opensecuritytraining.info/IntroBIOS_files/Day1_00_Advanced%20x86%20-%20BIOS%20and%20SMM%20Internals%20-%20Motivation.pdf
+
 UEFI： 
 
 UEFI：https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-8.1-and-8/hh824987(v=win.10)
