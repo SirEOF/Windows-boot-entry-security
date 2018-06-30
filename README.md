@@ -1,6 +1,8 @@
 # Windows-boot-entry-security
 boot/mbr/uefi
 
+UEFI boot 和 Legacy boot 区别：https://blog.csdn.net/ayang1986/article/details/27805605
+
 MRR：https://en.wikipedia.org/wiki/Master_boot_record
 
 VBR：https://en.wikipedia.org/wiki/Volume_boot_record
